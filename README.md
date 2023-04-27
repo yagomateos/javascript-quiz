@@ -2,7 +2,6 @@
 <html lang="es">
   <head>
     <meta charset="UTF-8">
-    <title>Quiz de JavaScript</title>
   </head>
   <body>
     <h1>Quiz de JavaScript</h1>
